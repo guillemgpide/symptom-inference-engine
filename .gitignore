@@ -1,0 +1,14 @@
+# Compiled object files
+*.o
+
+# Compiled executables
+symptom_engine
+programa
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.vscode/
+.idea/
