@@ -22,7 +22,7 @@
 ## ⚙️ Quick Start
 
     # Clone the repository
-    git clone https://github.com/guillemgpide/symptom-inference-engine.git
+    git clone https://github.com/yourusername/symptom-inference-engine.git
 
     # Navigate to the project directory
     cd symptom-inference-engine
